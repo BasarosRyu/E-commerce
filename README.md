@@ -1,9 +1,22 @@
-# E-commerce
+___________________ Organisation générale ___________________
 
-Un projet de groupe de 3 encore une fois (et encore avec Dylan !). Hélas, le projet bien qu'intéressant avait un délai trop court pour la hauteur du projet. 
+Première semaine :
+Dylan : Premières pages de front pour l'utilisateur<br/>
+Joaquim : structure de la BDD, création de la BDD et première requête<br/>
+Jérôme : création du dépot, powerpoint, mockups
 
-Il a été cependant réalisé à l'aide de : 
-- ReactJS
-- Symfony 4
 
-Il manque toujours le dossier node_modules. J'ai été en charge de quelques pages seulement car, chef de groupe, j'ai du réalisé la présentation du projet au trajet d'un PowerPoint faisant office de cahier des charges. J'ai cependant pu réaliser les pages "admins"
+
+
+
+___________________ Mock ups ___________________
+
+Accueil : https://nsa39.casimages.com/img/2019/01/10/190110091051455166.png<br/>
+Inscription : https://nsa39.casimages.com/img/2019/01/10/1901100910534907.png<br/>
+Accueil Admin : https://nsa39.casimages.com/img/2019/01/10/190110091051712863.png<br/>
+Catalogue : https://nsa39.casimages.com/img/2019/01/10/190110091051969207.png<br/>
+Description produit : https://nsa39.casimages.com/img/2019/01/10/190110091051116786.png<br/>
+Panier : https://nsa39.casimages.com/img/2019/01/10/190110091051184865.png<br/>
+Historique commandes : https://nsa39.casimages.com/img/2019/01/10/190110092043920657.png<br/>
+Ajout article : https://nsa39.casimages.com/img/2019/01/10/190110091052485845.png<br/>
+Editer article : https://nsa39.casimages.com/img/2019/01/10/190110091052746900.png<br/>
